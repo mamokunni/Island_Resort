@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  font-style: normal;
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+}
+
+#test{
+  background: url("tree.jpg");
+}
+
+body {
+  background-color: red;
+}
